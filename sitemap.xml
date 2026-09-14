@@ -6,12 +6,12 @@
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://www.manfrednesti.com/projects.html</loc>
+    <loc>https://www.manfrednesti.com/projects</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.manfrednesti.com/cv.html</loc>
+    <loc>https://www.manfrednesti.com/cv</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
